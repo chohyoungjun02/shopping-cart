@@ -3,6 +3,8 @@
 React의 `useReducer`로 장바구니 상태를 관리하는 간단한 Shopping Cart UI입니다.
 왼쪽에서 상품을 담고, 오른쪽 장바구니에서 수량 조절·삭제·전체 비우기와 총 결제금액을 확인할 수 있습니다.
 
+![Shopping Cart 화면](docs/screenshot.png)
+
 ## 기능
 
 - 상품 목록 표시 (Keyboard, Mouse, Monitor)
